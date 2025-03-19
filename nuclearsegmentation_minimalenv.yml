@@ -1,0 +1,16 @@
+name: nuclear_seg
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.10
+  - numpy==1.21.5
+  - pandas==1.4.1
+  - scikit-image==0.24.0
+  - scipy==1.13.1
+  - matplotlib==3.5.1
+  - stardist==0.8.0
+  - csbdeep==0.6.3
+  - napari==0.4.15
+  - tifffile==2024.8.30
+  
